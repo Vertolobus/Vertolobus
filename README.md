@@ -1,8 +1,8 @@
 - ------------------------------------------------
-- 👋 Hi, I’m @Vertolobus
-- 👀 I’m interested in go in the IT direction
-- 🌱 I’m currently learning Python and c++
-- thank you for watching my profile, have a good day :)
+- 👋 Hi, I'm @Vertolobus
+- 👀 I am interested in the IT direction
+- 🌱 I'm currently learning Python and c++ 
+- ❤ Thank you for watching my profile, have a nice day :)
 - ------------------------------------------------
 
 <!---
