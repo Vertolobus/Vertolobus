@@ -2,7 +2,8 @@
 - *------------------------------------------------*
 - *👋 Hi, I'm @Vertolobus*
 - *👀 I am interested in the IT direction*
-- *🌱 I'm currently learning Python, c++ and Javascript*
+- *🌱 I'm currently learning Python, C++*
+- *💞️ My main language that I am learning is C++*
 - *❤ Thank you for watching my profile, have a nice day :)*
 - *------------------------------------------------*
 
