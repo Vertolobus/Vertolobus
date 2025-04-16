@@ -1,4 +1,5 @@
 <hr>
+
 * 👋 Hi, I’m @Vertolobus
 
 * 👀 I’m interested in the С/C++ direction
